@@ -1,6 +1,4 @@
-5
-XMJYAUZ MZJAWXU
-thisisatest testing123testing
-12345 1234654545
-ABCDEF CDEFAB
-ABCXD BCDEF
+3
+abab cab
+1021 210
+abcdbcadcda abbcddab

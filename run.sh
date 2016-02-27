@@ -1,3 +1,4 @@
 #!/bin/bash
 
-make && ./findLCS < small.txt
+javac Main.java
+java Main -all < small.txt
