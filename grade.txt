@@ -1,0 +1,22 @@
+========== Begin Prog2 Report =======
+
+Working on jta00's report
+make: Nothing to be done for `all'.
+Makefile found : +5
+Evaluating jta00's submission..
+Executing small cases..
+Executing medium cases..
+Executing large cases..
+Generating report..
+-------------------------------------------------------
+Your score on LCS [small] : 15 (100.0000%)
+Your score on LCS-all [small] : 4 (100.0000%)
+Your score on LCS [medium] : 22.5 (100.0000%)
+Your score on LCS-all [medium] : 6 (100.0000%)
+Your score on LCS [large] : 37.5 (100.0000%)
+Your score on LCS-all [large] : 10 (100.0000%)
+-------------------------------------------------------
+Your total score is : 100
+-------------------------------------------------------
+
+========== End Report ===============
